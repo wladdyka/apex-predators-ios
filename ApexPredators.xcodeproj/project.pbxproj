@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		74AABED92C36FB31007BC373 /* Predators.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74AABED82C36FB31007BC373 /* Predators.swift */; };
 		74B0BD5A2C324D56004B2EE6 /* ApexPredatorsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74B0BD592C324D56004B2EE6 /* ApexPredatorsApp.swift */; };
 		74B0BD5C2C324D56004B2EE6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74B0BD5B2C324D56004B2EE6 /* ContentView.swift */; };
 		74B0BD5E2C324D57004B2EE6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74B0BD5D2C324D57004B2EE6 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		74AABED82C36FB31007BC373 /* Predators.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Predators.swift; sourceTree = "<group>"; };
 		74B0BD562C324D56004B2EE6 /* ApexPredators.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ApexPredators.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		74B0BD592C324D56004B2EE6 /* ApexPredatorsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApexPredatorsApp.swift; sourceTree = "<group>"; };
 		74B0BD5B2C324D56004B2EE6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				74B0BD592C324D56004B2EE6 /* ApexPredatorsApp.swift */,
 				74B0BD5B2C324D56004B2EE6 /* ContentView.swift */,
 				74B0BD692C324EED004B2EE6 /* ApexPredator.swift */,
+				74AABED82C36FB31007BC373 /* Predators.swift */,
 				74B0BD672C324DAC004B2EE6 /* jpapexpredators.json */,
 				74B0BD5D2C324D57004B2EE6 /* Assets.xcassets */,
 				74B0BD5F2C324D57004B2EE6 /* Preview Content */,
@@ -146,6 +149,7 @@
 			files = (
 				74B0BD6A2C324EED004B2EE6 /* ApexPredator.swift in Sources */,
 				74B0BD5C2C324D56004B2EE6 /* ContentView.swift in Sources */,
+				74AABED92C36FB31007BC373 /* Predators.swift in Sources */,
 				74B0BD5A2C324D56004B2EE6 /* ApexPredatorsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
